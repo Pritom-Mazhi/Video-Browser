@@ -1,5 +1,3 @@
-# Video-Browser
-
 ## This is a youtube video browser application implemented using vue.js.
 
 ## How to run this project?
